@@ -1,0 +1,26 @@
+.main-nav {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+.main-nav a {
+  color: #333;
+  text-decoration: none;
+  font-size: 18px;
+  margin: 0 10px;
+}
+
+.main-nav a:hover {
+  color: #ff0000;
+  font-weight: bold;
+}
+
+.inputs {
+  margin: 25px;
+  padding: 15px;
+}
+.svg {
+  margin-top: -10px;
+  padding: -40px;
+}
